@@ -10,4 +10,4 @@ jenkins integration
 
 crete release in octopus-1
 
-azure devops trigger
+azure devops trigger 
